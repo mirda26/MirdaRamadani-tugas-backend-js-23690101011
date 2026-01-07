@@ -1,0 +1,20 @@
+# Dependency folder
+node_modules/
+
+# File/Folder yang Dihasilkan Sistem Operasi
+# File sistem operasi macOS
+.DS_Store 
+# File sistem operasi Windows
+Thumbs.db
+
+# File Konfigurasi Editor/IDE
+# Folder konfigurasi Visual Studio Code
+.vscode/ 
+# File sementara atau history dari beberapa editor
+*~ 
+
+# File Log atau Backup yang Tidak Perlu
+# Abaikan semua file dengan ekstensi .log
+*.log 
+# Abaikan file backup yang umum
+*.bak

@@ -1,0 +1,17 @@
+{
+  "name": "tugas-backend-js-23690101011",
+  "version": "1.0.0",
+  "description": "Proyek ini merupakan tugas pembuatan portofolio sederhana menggunakan HTML, CSS, dan JavaScript. Isi proyek ini mencakup struktur halaman portofolio, tampilan visual, serta interaksi dasar seperti tombol dan elemen dinamis.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
